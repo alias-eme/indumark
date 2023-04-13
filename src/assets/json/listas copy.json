@@ -1,0 +1,65 @@
+{
+  "estados": [
+    "ESTADOTIP",
+    "PROFORMA EN NEGOCIACION",
+    "ORDEN OK",
+    "CARGA EN VIAJE",
+    "TRAMITES DE ADUANA",
+    "CARGA RECIBIDA",
+    "ESPERANDO DOCS. ADUANA",
+    "ORDEN DE PAGO ENVIADA",
+    "PAGADA Y ARCHIVADA",
+    "CARGA RETENIDA",
+    "ABONO DE PAGO",
+    "SOLICITANDO SEGURO PROVISORIO",
+    "SOLICITANDO SEGURO DEFINITIVO",
+    "SUSPENDIDA"
+  ],
+  "default": [
+    {
+      "estado": "PROFORMA EN NEGOCIACION",
+      "moneda": "USD"
+    }
+  ],
+  "descripciones": [
+    "ARTICULOS RECAUCHAJE",
+    "BATERIAS Y AFINES",
+    "CADENAS, UNIONES, PIÑONES",
+    "CINTAS TRANSPORTADORAS",
+    "CORREAS DE TRANSMISION",
+    "CORREAS EN V Y AFINES",
+    "CORREAS EN V BINLONG",
+    "FILMS SINTETICOS",
+    "FILMS SINTETICOS CAIMI",
+    "FILMS SINTETICOS GOODYEAR",
+    "MANGUERAS",
+    "MATERIALES RECAUCHAJE",
+    "MILWAUKEE",
+    "NEUMATICOS ESP.IND.Y OTROS (R)",
+    "NEUMATICOS MACIZOS",
+    "PRENS/MOLD. DE CAUCHO",
+    "PRODUCTOS RICHWOOD",
+    "SERVICIOS",
+    "UNIONES MECANICAS"
+  ],
+  "monedas": [
+    "CLF",
+    "CLP",
+    "EURO",
+    "USD"
+  ],
+  "bancos": [
+    "BANCO CREDITO INVERSIONES",
+    "BANCO SANTANDER"
+  ],
+  "divisas": [
+    "DISPONIBILIDADES PROPIAS",
+    "MERCADO BANCARIO",
+    "OTROS"
+  ],
+  "documentos": [
+    "FACTURA",
+    "NEGOCIACION",
+    "PROFORMA"
+  ]
+}

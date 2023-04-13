@@ -1,0 +1,130 @@
+/*estilo general para formularios*/
+
+h1 {
+    font-size: 150%;
+    /* text-indent: 10px;*/
+}
+
+h2 {
+    font-size: 130%;
+}
+
+h3 {
+    font-size: 110%;
+}
+
+
+/*  h4 {
+       color: red;
+        font-size: 50%;
+      }*/
+
+.minibutton {
+    width: 30px;
+    height: 30px;
+}
+
+.minilista {
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+/*estilo condensado para formularios*/
+
+.boton-formulario {
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    margin-top: 18px;
+}
+
+.boton-formulario-largo {
+    height: 31px;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 18px;
+}
+
+.boton-chico {
+    width: 28px;
+    height: 28px;
+    padding: 0px;
+    
+}
+
+.boton-super-chico {
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    font-size:90%;
+}
+
+.boton-chato {
+    height: 28px;
+    padding: 2px;
+}
+
+.checkbox-formulario {
+    width: 25px;
+    height: 25px;
+    margin-top: 19px;
+}
+
+
+/*estilo condensado para formularios*/
+
+
+/*.form-control {
+    height: 1.9rem;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 2px;
+    
+  }*/
+
+
+/* Reduced from whatever it currently is */
+
+option {
+    height: 1.5rem;
+    margin-bottom: 1px;
+    /* Reduced from whatever it currently is */
+    margin-top: 1px;
+    /* Reduced from whatever it currently is */
+}
+
+.col-form-label {
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.form-group {
+    font-size: 12px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+
+.lista-condensada {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.ui-autocomplete {
+    z-index: 2150000000;
+}
+
+.ui-datepicker {
+    z-index: 2150000001;
+}
+
+.ui-autocomplete.ui-widget {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+}
